@@ -1,0 +1,4 @@
+Agree. For trading firms, low latency thinking matters.
+
+Review cache friendliness, memory layout, false sharing, and lock-free basics. Even high-level understanding of market making shows you get the business context.
+
